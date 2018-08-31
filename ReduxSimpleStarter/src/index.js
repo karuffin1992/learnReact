@@ -7,7 +7,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyDE7F1pM6RQkChXUWV67gQhJjJL8ajpOrs';
+const API_KEY = '';
 
 // const is ES6 syntax
 // var on steroids
